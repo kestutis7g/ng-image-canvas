@@ -1,6 +1,6 @@
 {
   "name": "ng-image-canvas",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An Angular library for dragging, dropping, and resizing images on a canvas",
   "author": "Kęstutis Girnius <kestutis.girnius@gmail.com>",
   "license": "MIT",
@@ -27,5 +27,8 @@
     "drag",
     "drop",
     "resize"
-  ]
+  ],
+  "scripts": {
+    "docs": "typedoc"
+  }
 }

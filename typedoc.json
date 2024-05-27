@@ -1,0 +1,5 @@
+{
+  "entryPoints": ["src/lib/ng-image-canvas.component.ts"],
+  "out": "docs",
+  "includeVersion": true
+}
